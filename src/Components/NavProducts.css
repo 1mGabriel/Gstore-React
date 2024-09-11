@@ -1,0 +1,113 @@
+.hide{
+    display: none;
+  }
+.nav-products-container{
+    font-family: "NTR", sans-serif;
+    width: 100%;
+    height: 100%;
+    background: rgb(50,50,50);
+    background: linear-gradient(187deg, rgb(15, 15, 15) 0%, rgba(2,2,2,1) 100%);
+}
+.options-nav-products{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    width: 90%;
+    margin: 0 auto;
+    height: 100%;
+}
+.options-nav-products a{
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-decoration: none;
+    color: #fff;
+}
+.xbox-option,
+.pc-option{
+    transition: .3s;
+    width: 38.5%;
+    text-align: center;
+    border-bottom: 3px solid transparent;
+}
+.playstation-option{
+    transition: .3s;
+    width: 33%;
+    text-align: center;
+    border-bottom: 3px solid transparent;
+}
+.xbox-option:hover{
+    border-bottom: 3px solid #397D19;
+}
+.playstation-option:hover{
+    border-bottom: 3px solid #19357D;
+}
+.pc-option:hover{
+    border-bottom: 3px solid #B0B2B6;
+}
+.options-nav-products p{
+    font-weight: lighter;
+}
+.option-nav-content-container.nav-xbox{
+    background: rgb(13,82,32);
+    background: linear-gradient(180deg, rgba(13,82,32,1) 0%, rgba(29,201,77,1) 100%);
+  }
+  .option-nav-content-container.nav-playstation{
+    background: rgb(23,43,95);
+    background: linear-gradient(180deg, rgba(23,43,95,1) 0%, rgba(45,96,227,1) 100%);
+  }
+  .option-nav-content-container.nav-pc{
+    background: rgb(61,64,62);
+  background: linear-gradient(180deg, rgba(61,64,62,1) 0%, rgba(255,255,255,1) 100%);
+  }
+  .option-nav-content{
+    z-index: 3;
+    width: 90%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin: 0 auto;
+  }
+  .option-nav-content a{
+    cursor: pointer;
+    transition: .4s;
+    text-decoration: none;
+    color: #fff;
+    font-weight: lighter;
+    opacity: .7;
+  }
+  .option-nav-content a:hover{
+    opacity: 1;
+    color: #000;
+  }
+  
+@media (max-width: 428px) {}
+
+@media (min-width: 799px) and (max-width:1279px){
+    .options-nav-products a{
+        font-size: 25px;
+    }
+    .option-nav-content{
+        height: 60px;
+        font-size: 23px;
+    }
+}
+@media (min-width:1280px) and (max-width:1919px) {
+    .options-nav-products a{
+        font-size: 25px;
+    }
+    .option-nav-content{
+        height: 60px;
+        font-size: 23px;
+    }
+}
+@media (min-width: 1920px){
+    .options-nav-products a{
+        font-size: 25px;
+    }
+    .option-nav-content{
+        height: 60px;
+        font-size: 23px;
+    }
+}

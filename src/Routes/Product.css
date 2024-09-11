@@ -1,0 +1,118 @@
+.product-id-container{
+    width: 90%;
+    background: rgb(246,246,246);
+    background: linear-gradient(180deg, #0202026b 0%, rgba(0,0,0,1) 100%);
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    font-family: "NTR";
+    padding: 10px;
+}
+.description{
+    width: 90%;
+    text-align:start ;
+    padding: 10px;
+}
+.product-id-container img{
+    height: 219px;
+    width: 207px;
+    padding: 10px;
+    border-radius: 11px;
+}
+.product-id-container h1, .product-id-container h2{
+    text-transform: uppercase;
+    font-weight: lighter;
+    color: #fff;
+}
+.product-id-container h2{
+    font-size: 30px;
+}
+
+.product-id-container p{
+    color: #5e5e5e;
+}
+.product-id-container button{
+    width: 200px;
+    height: 50px;
+    margin: 5px;
+    border: none;
+    border-radius: 4px;
+    color: #fff;
+    font-family: "NTR";
+    background-color: #131212;
+    font-size: 14px;
+    transition: .4s;
+    padding: 5px;
+
+}
+.product-id-container button:hover{
+    background: rgb(73, 75, 78);
+background: linear-gradient(0deg, rgb(138, 151, 184) 0%, rgb(92, 94, 99) 98%);
+}
+
+@media (max-width: 428px){
+    .description{
+        display: none;
+    }
+}
+@media (min-width: 799px) and (max-width:1279px){
+    .product-id-container img{
+        width: 400px;
+        height: 400px;
+    }
+    .product-id-container button{
+        width: 250px;
+        height: 70px;
+        font-size: 20px;
+    
+    }
+    .description{
+        display: none;
+    }
+}
+@media (min-width:1280px) and (max-width:1919px){
+    .product-id-container{
+        display: flex;
+        flex-direction: row;
+        
+    }
+    .product-id-container img{
+        padding: 20px;
+        width: 400px;
+        height: 400px;
+    }
+    .information-product{
+        display: flex;
+        flex-direction: column;
+        text-align: center;
+        width: 100%;
+        justify-content: center;
+        align-items: center;
+    }
+}
+@media (min-width: 1920px){
+    .product-id-container{
+        display: flex;
+        flex-direction: row;
+        
+    }
+    .product-id-container img{
+        padding: 20px;
+        width: 500px;
+        height: 500px;
+    }
+    .information-product{
+        display: flex;
+        flex-direction: column;
+        text-align: center;
+        width: 100%;
+        justify-content: center;
+        align-items: center;
+    }
+    .information-product p{
+        font-size: 19px;
+    }
+}

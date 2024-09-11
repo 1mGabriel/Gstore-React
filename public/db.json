@@ -1,0 +1,942 @@
+{
+    "home":[
+        {
+            "image":"https://images.kabum.com.br/produtos/fotos/sync_mirakl/537111/Console-Playstation-5-Sony-Slim-SSD-1TB-Controle-Sem-Fio-Dualsense-Edi-o-Digital-Branco_1717689026_gg.jpg",
+            "name":"Playstation 5",
+            "price":3799.00,
+            "promotion":"379",
+            "description":"PlayStation 5. Jogue Como Nunca Antes. Acesse o Site e Confira As Novidades. Jogos Deslumbrantes e Imersão de Tirar o Fôlego no PlayStation 5. Carregadores. Jogos Exclusivos PS5. Headsets. Fones de Ouvido. Últimos Lançamentos. Câmera HD.",
+            "id":"1"
+            
+        },
+        {
+            "image":"data:image/jpeg;base64,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",
+            "name":"Xbox Series S",
+            "price":3299.00,
+            "promotion":"329",
+            "description":"Xbox Series S. Jogue Como Nunca Antes. Acesse o Site e Confira As Novidades. Jogos Deslumbrantes e Imersão de Tirar o Fôlego no PlayStation 5. Carregadores. Jogos Exclusivos PS5. Headsets. Fones de Ouvido. Últimos Lançamentos. Câmera HD.",
+            "id":"2"
+            
+        },
+        {
+            "image":"https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSbbQqFCzdxpqJ_JJ9f01tzjtLRRE8BnUiwE9VCz4dNYSk3dnOcrF_9ydP6g6tGk8ssOPAhA8V_t4iqIGRDZ5z1l8NBIWolAx83-I1tKHYDyrLmMALU-hgUOEkz2aOJuiOpsnk-Iyw&usqp=CAc",
+            "name":"Hogwarts ...",
+            "price":399.00,
+            "promotion":"39.00",
+            "description":"Hogwarts Legacy é um jogo de ação e RPG em mundo aberto, ambientado no universo de Harry Potter. Lançado em 2023, o jogo se passa no final do século XIX, muito antes dos eventos dos livros e filmes da série. Nele, os jogadores assumem o papel de um estudante recém-chegado a Hogwarts, onde podem explorar o famoso castelo, aprender feitiços, preparar poções, interagir com criaturas mágicas e descobrir segredos do mundo bruxo.",
+            "id":"3"
+            
+        },
+        {
+            "image":"https://www.kabum.com.br/_next/image?url=https%3A%2F%2Fimages.kabum.com.br%2Fprodutos%2Ffotos%2F401375%2Fteclado-gamer-redragon-lakshmi-switch-brown-layout-60-abnt2-verde-k606-og-gy-bk-pt-brown-_1671624936_g.jpg&w=750&q=75",
+            "name":"Teclado",
+            "price":149.00,
+            "promotion":"149",
+            "description":"Para os gamers que procuram deixar o máximo de espaço possível sobre a mesa, o Redragon Lakshmi vem no layout compacto 60% ABNT2.Contando com um cabo removível USB-C, o Lakshmi é um modelo muito portátil para aqueles usuários que buscam praticidade na hora levar seus equipamentos.Sem deixar de lado a qualidade na sua construção, as keycaps do Lakshmi são feitas com o método de double shot injection para a longevidade das marcações.",
+            "id":"4"
+            
+        }
+    ],
+    "xbox-console":[
+        {
+            "image":"data:image/jpeg;base64,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",
+            "name":"Xbox Series S",
+            "price":3499.00,
+            "promotion":"349",
+            "description":"Xbox Series S. Jogue Como Nunca Antes. Acesse o Site e Confira As Novidades. Jogos Deslumbrantes e Imersão de Tirar o Fôlego no PlayStation 5. Carregadores. Jogos Exclusivos PS5. Headsets. Fones de Ouvido. Últimos Lançamentos. Câmera HD.",
+            "id":"5"
+            
+        },
+        {
+            "image":"https://http2.mlstatic.com/D_NQ_NP_759399-MLU75123091019_032024-O.webp",
+            "name":"Dual Sense Xbox",
+            "price":399.00,
+            "promotion":"39",
+            "description":"Precise Control Este controle remoto combina funções revolucionárias enquanto mantém a precisão, o conforto e a exatidão em cada movimento. Graças à sua ergonomia especialmente projetada para a posição da sua mão, você pode passar horas jogando com total conforto.",
+            "id":"6"
+            
+        },
+        {
+            "image":"https://http2.mlstatic.com/D_NQ_NP_912249-MLU74135895546_012024-O.webp",
+            "name":"Xbox Diablo Bundle",
+            "price":4121.00,
+            "promotion":"41.21",
+            "description":"Com seu console Xbox Series X você terá entretenimento garantido todos os dias. Sua tecnologia foi criada para colocar novos desafios para jogadores novatos e especialistas.",
+            "id":"7"
+            
+        },
+        {
+            "image":"https://http2.mlstatic.com/D_NQ_NP_850369-MLA74805962673_022024-O.webp",
+            "name":"Xbox Series S 1TB",
+            "price":3079.00,
+            "promotion":"379",
+            "description":"Aviso legal • A duração da bateria dos controles depende de como o produto é usado.",
+            "id":"8"
+            
+        },
+        {
+            "image":"https://http2.mlstatic.com/D_NQ_NP_711941-MLU74446201239_022024-O.webp",
+            "name":"Xbox Series S 512GB",
+            "price":2799.00,
+            "promotion":"279",
+            "description":"Aviso legal • A duração da bateria dos controles depende de como o produto é usado.",
+            "id":"9"
+            
+        },
+        {
+            "image":"https://http2.mlstatic.com/D_NQ_NP_686099-MLA32731207921_112019-O.webp",
+            "name":"Xbox Series S 512GB",
+            "price":1099.00,
+            "promotion":"109",
+            "description":"Aviso legal • A duração da bateria dos controles depende de como o produto é usado.",
+            "id":"10"
+            
+        }
+    ],
+    "xbox-jogos":[
+        {
+            "image":"https://http2.mlstatic.com/D_NQ_NP_996123-MLU72542358794_112023-O.webp",
+            "name":"Battlefield 2042",
+            "price":39.00,
+            "promotion":"3",
+            "description":"Com este jogo Battlefield, você desfrutará de horas de diversão e novos desafios que lhe permitirão melhorar como jogador.",
+            "id":"11"
+            
+        },
+        {
+            "image":"https://http2.mlstatic.com/D_NQ_NP_621428-MLU75915321868_042024-O.webp",
+            "name":"Wild Hearts",
+            "price":139.00,
+            "promotion":"13.90",
+            "description":"Com este jogo Wild Hearts, você desfrutará de horas de diversão e novos desafios que lhe permitirão melhorar como jogador.",
+            "id":"12"
+            
+        },
+        {
+            "image":"https://http2.mlstatic.com/D_NQ_NP_953497-MLB49116994479_022022-O.webp",
+            "name":"Life Is Strange T Colors",
+            "price":139.00,
+            "promotion":"13.90",
+            "description":"Estamos sempre comprometidos a levar o melhor do mundo gamer até você com a experiência de um bom Mercado Líder que somos.",
+            "id":"13"
+            
+        },
+        {
+            "image":"https://http2.mlstatic.com/D_NQ_NP_617294-MLU70500938810_072023-O.webp",
+            "name":"Lego Dc Super Villains",
+            "price":121.00,
+            "promotion":"12.10",
+            "description":"Aviso legal • A duração da bateria dos controles depende de como o produto é usado.",
+            "id":"14"
+            
+        },
+        {
+            "image":"https://http2.mlstatic.com/D_NQ_NP_762328-MLU69921889279_062023-O.webp",
+            "name":" Lego Os Incríveis",
+            "price":121.00,
+            "promotion":"12.90",
+            "description":"Aviso legal • A duração da bateria dos controles depende de como o produto é usado.",
+            "id":"15"
+            
+        },
+        {
+            "image":"https://needgames.com.br/wp-content/uploads/2021/12/red-dead-redemption-xbox-cover.jpg.webp",
+            "name":"Red Dead Redemption 2",
+            "price":109.00,
+            "promotion":"10.90",
+            "description":"Vencedor de mais de 175 prêmios de Jogo do Ano e avaliado com mais de 250 notas máximas, Red Dead Redemption 2 é uma história épica de honra e lealdade no alvorecer dos tempos modernos.",
+            "id":"16"
+            
+        }
+        ,
+        {
+            "image":"https://image.api.playstation.com/vulcan/ap/rnd/202405/2120/bfb142d8522adb99529f7b62a5fa32abd6e739d974ac0f65.png?w=440&thumb=false",
+            "name":"Black Myth Wukong",
+            "price":225.00,
+            "promotion":"25.50",
+            "description":"Black Myth: Wukong é um jogo de RPG de ação desenvolvido pela Game Science, baseado no romance chinês clássico do século 16, Journey to the West.",
+            "id":"101"
+            
+        }
+    ],
+    "xbox-perifericos":[
+        {
+            "image":"https://http2.mlstatic.com/D_NQ_NP_793033-MLB49434373938_032022-O.webp",
+            "name":"Kit Carregador Duplo",
+            "price":124.00,
+            "promotion":"12.40",
+            "description":"especialmente projetado para xbox series e xbox one e elite controller: esta estação de carregador de controle vem com dois pacotes de baterias recarregáveis 1300mah, suporta controles xbox series x/s e xbox one x/s/xbox one/elite.",
+            "id":"17"
+            
+        },
+        {
+            "image":"https://http2.mlstatic.com/D_NQ_NP_716757-MLB71257039903_082023-O.webp",
+            "name":"Kit Bateria Cabo C",
+            "price":69.00,
+            "promotion":"6.90",
+            "description":"O cliente ideal para este produto é para você que é um entusiasta de jogos que possui um Xbox Series S e valoriza conveniência, compatibilidade e durabilidade em seus acessórios de jogo.",
+            "id":"18"
+            
+        },
+        {
+            "image":"https://http2.mlstatic.com/D_NQ_NP_659458-MLB74438217143_022024-O.webp",
+            "name":"Cooler Dobe Charger",
+            "price":179.00,
+            "promotion":"17.90",
+            "description":"Estamos sempre comprometidos a levar o melhor do mundo gamer até você com a experiência de um bom Mercado Líder que somos.",
+            "id":"19"
+            
+        }
+    ],
+    "psn-console":[
+        {
+            "image":"https://images.kabum.com.br/produtos/fotos/sync_mirakl/537111/Console-Playstation-5-Sony-Slim-SSD-1TB-Controle-Sem-Fio-Dualsense-Edi-o-Digital-Branco_1717689026_gg.jpg",
+            "name":"Playstation 5",
+            "price":3799.00,
+            "promotion":"379",
+            "description":"PlayStation 5. Jogue Como Nunca Antes. Acesse o Site e Confira As Novidades. Jogos Deslumbrantes e Imersão de Tirar o Fôlego no PlayStation 5. Carregadores. Jogos Exclusivos PS5. Headsets. Fones de Ouvido. Últimos Lançamentos. Câmera HD.",
+            "id":"20"
+            
+        },
+        {
+            "image":"https://www.kabum.com.br/_next/image?url=https%3A%2F%2Fimages.kabum.com.br%2Fprodutos%2Ffotos%2Fsync_mirakl%2F495577%2FPlaystation-5-Edi-o-Limitada-Spider-Man-2-Controle-E-Jogo-_1695911931_g.jpg&w=1080&q=75",
+            "name":"PS5 Spider-Man 2",
+            "price":6542.00,
+            "promotion":"65.42",
+            "description":"Console playstation 5 marvels spider-man 2 limited edition - cfi-1214az2x",
+            "id":"21"
+            
+        },
+        {
+            "image":"https://www.kabum.com.br/_next/image?url=https%3A%2F%2Fimages.kabum.com.br%2Fprodutos%2Ffotos%2F161471%2Fcontrole-sem-fio-dualsense-midnight-black-ps5-pre-venda_1621439693_g.jpg&w=1080&q=75",
+            "name":"Ps5 DualShock",
+            "price":356.00,
+            "promotion":"35.06",
+            "description":"Sinta o feedback fisicamente responsivo às suas ações no jogo com atuadores duplos que substituem os motores tradicionais. Em suas mãos, essas vibrações dinâmicas podem simular a sensação de tudo, desde ambientes até o recuo de diferentes armas. Experimente vários níveis de força e tensão conforme você interage com o equipamento e os ambientes do jogo. Desde puxar a corda do arco cada vez mais tensa até pisar no freio em um carro em alta velocidade, sinta-se fisicamente conectado às suas ações na tela.",
+            "id":"22"
+            
+        },
+        {
+            "image":"https://www.kabum.com.br/_next/image?url=https%3A%2F%2Fimages.kabum.com.br%2Fprodutos%2Ffotos%2F503383%2Fcontrole-sem-fio-ps5-dualsense-cobalt-blue-cfi-zct1w_1698409848_g.jpg&w=1080&q=75",
+            "name":"Ps5 DualShock Azul",
+            "price":375.00,
+            "promotion":"375",
+            "description":"Aviso legal • A duração da bateria dos controles depende de como o produto é usado.",
+            "id":"23"
+            
+        },
+        {
+            "image":"https://www.kabum.com.br/_next/image?url=https%3A%2F%2Fimages.kabum.com.br%2Fprodutos%2Ffotos%2F115800%2Fheadset-sem-fio-ps5-pulse-3d_1598900334_g.jpg&w=1080&q=75",
+            "name":"Ps5 HeadSet",
+            "price":464.00,
+            "promotion":"46.6",
+            "description":"Aviso legal • A duração da bateria dos controles depende de como o produto é usado.",
+            "id":"24"
+            
+        },
+        {
+            "image":"https://www.kabum.com.br/_next/image?url=https%3A%2F%2Fimages.kabum.com.br%2Fprodutos%2Ffotos%2F548547%2Fplaystation-portal-reprodutor-remoto-para-console-ps5-branco-1000041393_1718044192_g.jpg&w=1080&q=75",
+            "name":"PlayStation Portal",
+            "price":1439.00,
+            "promotion":"143.90",
+            "description":"Aviso legal • A duração da bateria dos controles depende de como o produto é usado.",
+            "id":"25"
+            
+        }
+    ],
+    "psn-jogos":[
+        {
+            "image":"https://www.kabum.com.br/_next/image?url=https%3A%2F%2Fimages.kabum.com.br%2Fprodutos%2Ffotos%2F396722%2Fjogo-god-of-war-ragnar-k-edicao-standard-ps5-_1666892140_g.jpg&w=1080&q=75",
+            "name":"God of War Ragnarok",
+            "price":3799.00,
+            "promotion":"379",
+            "description":"Do Santa Monica Studio, esta é a sequência da aclamada versão de 2018 de God of War. O Fimbulwinter já começou. Kratos e Atreus devem viajar pelos Nove Reinos em busca de respostas enquanto as forças asgardianas se preparam para uma batalha profetizada que causará o fim do mundo. Nessa jornada, eles explorarão paisagens míticas impressionantes e enfrentarão inimigos aterradores: deuses nórdicos e monstros. A ameaça do Ragnarök se aproxima. Kratos e Atreus terão de escolher entre a segurança deles próprios e a dos reinos.",
+            "id":"26"
+            
+        },
+        {
+            "image":"https://a-static.mlcdn.com.br/800x560/jogo-marvels-spider-man-2-playstation-5/magazineluiza/237987800/4a6e638c6a8837a755f99cf04f227d2b.jpg",
+            "name":"Spider-Man 2",
+            "price":269.00,
+            "promotion":"26.90",
+            "description":"Jogo Marvel's Spider-Man 2 desenvolvido pela Insommiac Games para PS5. Sejam Melhores. Juntos. O próximo jogo da franquia Marvel’s Spider-Man: Peter Parker e Miles Morales enfrentam o maior teste de suas vidas para proteger a cidade contra Venom e a ameaça simbionte. Explore a Nova York da Marvel, balançando, pulando e deslocando-se com as novas Asas de Teia.",
+            "id":"27"
+            
+        },
+        {
+            "image":"https://www.kabum.com.br/_next/image?url=https%3A%2F%2Fimages.kabum.com.br%2Fprodutos%2Ffotos%2F630622%2Fjogo-ea-sports-fc-ps5-ea000007ps5_1724849540_g.jpg&w=1080&q=75",
+            "name":"Ps5 Ea Fc25",
+            "price":356.00,
+            "promotion":"35.06",
+            "description":"O EA SPORTS FC 25 oferece mais maneiras de ganhar pelo clube. Jogue seus modos favoritos com seus amigos no novo Rush 5 contra 5 e gerencie seu clube rumo à vitória com o FC IQ dando mais controle tático do que nunca.",
+            "id":"28"
+            
+        },
+        {
+            "image":"https://www.kabum.com.br/_next/image?url=https%3A%2F%2Fimages.kabum.com.br%2Fprodutos%2Ffotos%2F590473%2Fjogo-elden-ring-shadow-of-the-erdtree-ps5-nb000253ps5_1717678470_g.jpg&w=1080&q=75",
+            "name":"Ps5 Elden Ring",
+            "price":323.00,
+            "promotion":"32.30",
+            "description":"Guiados pelo Empirio Miquella, os jogadores são levados para a Terra das Sombras, um lugar obscurecido pela Térvore, onde a deusa Marika pisou pela primeira vez. Nessas novas terras desconhecidas, jogadores descobrirão segredos obscuros do mundo, conhecendo outros que seguem os passos de Miquella com intenções ocultas.",
+            "id":"29"
+            
+        },
+        {
+            "image":"https://www.kabum.com.br/_next/image?url=https%3A%2F%2Fimages.kabum.com.br%2Fprodutos%2Ffotos%2F511295%2Fjogo-the-last-of-us-part-ii-remastered-ps5-1000030252_1701810116_g.jpg&w=1080&q=75",
+            "name":"The Last Of Us II",
+            "price":224.00,
+            "promotion":"24.0",
+            "description":"Viva a experiência vencedora de mais de 300 prêmios de Jogo do Ano, agora com novos modos e recursos e uma serie de melhorias tecnicas que tornam The Last of Us Part II Remastered a forma definitiva de jogar a história de Ellie e Abby aclamada pela crítica.",
+            "id":"30"
+            
+        },
+        {
+            "image":"https://www.kabum.com.br/_next/image?url=https%3A%2F%2Fimages.kabum.com.br%2Fprodutos%2Ffotos%2F284352%2Fjogo-uncharted-colecao-legado-dos-ladroes-ps5_1639077604_g.jpg&w=1080&q=75",
+            "name":"Uncharted Thief´s Legacy",
+            "price":225.00,
+            "promotion":"25.50",
+            "description":"Busque sua fortuna e deixe sua marca na história em UNCHARTED: Coleção Legado dos Ladrões. Viva a narrativa cinematográfica emocionante e as maiores cenas de ação da franquia UNCHARTED, com todo o bom-humor, a astúcia e momentos incríveis dos ladrões que você mais adora, Nathan Drake e Chloe Frazer.",
+            "id":"31"
+            
+        }
+        ,
+        {
+            "image":"https://cdn.awsli.com.br/2500x2500/2692/2692577/produto/272916215/black-myth-wukong---ps5-5pq4m8qge1.jpg",
+            "name":"Black Myth Wukong",
+            "price":225.00,
+            "promotion":"25.50",
+            "description":"Black Myth: Wukong é um jogo de RPG de ação desenvolvido pela Game Science, baseado no romance chinês clássico do século 16, Journey to the West.",
+            "id":"100"
+            
+        }
+        
+    ],
+    "psn-perifericos":[
+        {
+            "image":"https://http2.mlstatic.com/D_NQ_NP_767644-MLB74421739300_022024-O.webp",
+            "name":"Suporte Refrigeração",
+            "price":224.00,
+            "promotion":"22.40",
+            "description":" suporte ps5 com ventoinhas de refrigeração eficientes e estação de carregamento para controle ps5, suporte 12 jogos ps5, portas de carregamento USB extras. Esta estação de resfriamento ps5 pode carregar rapidamente dois ps5 ao mesmo tempo e dissipar o calor para console ps5, playstation 5.",
+            "id":"32"
+            
+        },
+        {
+            "image":"https://http2.mlstatic.com/D_NQ_NP_681888-MLU73471569078_122023-O.webp",
+            "name":"Base De Carregamento",
+            "price":177.00,
+            "promotion":"17.9",
+            "description":"Encaixe. Carregue. Jogue.Carregue até dois controles sem fio DualSense sem precisar conectá-los ao seu console PlayStation 5.",
+            "id":"33"
+            
+        },
+        {
+            "image":"https://http2.mlstatic.com/D_NQ_NP_624656-MLB75289005414_032024-O.webp",
+            "name":"Base De Controle",
+            "price":137.00,
+            "promotion":"13.70",
+            "description":"Carregador básico de carregamento rápido de 2-3 horas: Este carregador de controlador PS5 é projetado para carregar dois controladores PS5 simultaneamente, alimentado por um cabo de carregamento com um plugue da consola PS5.",
+            "id":"34"
+            
+        }
+    ],
+    "pc-console":[
+        {
+            "image":"https://media.pichau.com.br/media/catalog/product/cache/ef72d3c27864510e5d4c0ce69bade259/c/a/carbon-rgb-amd-gtrx-001_1_6_1.jpg",
+            "name":"Computador Gamer",
+            "price":2629.00,
+            "promotion":"269.40",
+            "description":" 1 x Processador AMD Ryzen 5 4500, 6-Core, 12-Threads, 3.6GHz (4.1GHz Turbo), Cache 11MB, AM4, 100-100000644BOX 1 x Placa Mae Mancer A520M-DX, DDR4,Socket AMD AM4, M-ATX, Chipset AMD A520, MCR-A520M-DX 2 x Memoria Team Group T-Force Vulcan Pichau, 8GB (1x8), DDR4, 3200MHz, C16, Branca RTB, TLPBD48G3200HC16F01 1 x SSD Mancer Reaper RF, 512GB, Sata III 6GB/s, Leitura 500 MB/s, Gravacao 450 MB/s, MCR-RPRF-512 1 x Placa de Video Mancer GeForce GTX 1060, 3GB, GDDR5, 192-bit, MCR-GTX10603GB-V1 Existem mais 4 itens nessa configuração, clique para ver mais",
+            "id":"35"
+            
+        },
+        {
+            "image":"https://media.pichau.com.br/media/catalog/product/cache/ef72d3c27864510e5d4c0ce69bade259/a/g/agabinete-gamer-pouter-4-preto-com-fan-001_4.jpg",
+            "name":"Saiph IV, AMD Ryzen 7",
+            "price":8739.00,
+            "promotion":"873.90",
+            "description":"Encaixe. Carregue. Jogue.Carregue até dois controles sem fio DualSense sem precisar conectá-los ao seu console PlayStation 5.",
+            "id":"36"
+            
+        },
+        {
+            "image":"https://media.pichau.com.br/media/catalog/product/cache/ef72d3c27864510e5d4c0ce69bade259/p/i/pichau-gadit-l-branco-argb-gabinete-001_4.jpg",
+            "name":"Alcmena IV, AMD Ryzen 7",
+            "price":8069.00,
+            "promotion":"806.00",
+            "description":"Carregador básico de carregamento rápido de 2-3 horas: Este carregador de controlador PS5 é projetado para carregar dois controladores PS5 simultaneamente, alimentado por um cabo de carregamento com um plugue da consola PS5.",
+            "id":"37"
+            
+        }
+        ,
+        {
+            "image":"https://media.pichau.com.br/media/catalog/product/cache/ef72d3c27864510e5d4c0ce69bade259/g/a/gabinete-gamer-hx600-black-rgb-001_9_1.jpg",
+            "name":"Poseídon  Ryzen 7",
+            "price":12969.00,
+            "promotion":"1229.69",
+            "description":"Carregador básico de carregamento rápido de 2-3 horas: Este carregador de controlador PS5 é projetado para carregar dois controladores PS5 simultaneamente, alimentado por um cabo de carregamento com um plugue da consola PS5.",
+            "id":"38"
+            
+        }
+    ]
+    ,
+    "pc-jogos":[
+        {
+            "image":"https://http2.mlstatic.com/D_NQ_NP_930446-MLU78442500890_082024-O.webp",
+            "name":"RedDead Redemption",
+            "price":229.00,
+            "promotion":"269.40",
+            "description":" 1 x Processador AMD Ryzen 5 4500, 6-Core, 12-Threads, 3.6GHz (4.1GHz Turbo), Cache 11MB, AM4, 100-100000644BOX 1 x Placa Mae Mancer A520M-DX, DDR4,Socket AMD AM4, M-ATX, Chipset AMD A520, MCR-A520M-DX 2 x Memoria Team Group T-Force Vulcan Pichau, 8GB (1x8), DDR4, 3200MHz, C16, Branca RTB, TLPBD48G3200HC16F01 1 x SSD Mancer Reaper RF, 512GB, Sata III 6GB/s, Leitura 500 MB/s, Gravacao 450 MB/s, MCR-RPRF-512 1 x Placa de Video Mancer GeForce GTX 1060, 3GB, GDDR5, 192-bit, MCR-GTX10603GB-V1 Existem mais 4 itens nessa configuração, clique para ver mais",
+            "id":"39"
+            
+        },
+        {
+            "image":"https://assets.nuuvem.com/image/upload/t_boxshot_big/v1/products/557dbc9a69702d0a9c4aff00/boxshots/yla713xc1c3mmvfsugcm.jpg",
+            "name":"Mortal Kombat X",
+            "price":39.00,
+            "promotion":"873.90",
+            "description":"Encaixe. Carregue. Jogue.Carregue até dois controles sem fio DualSense sem precisar conectá-los ao seu console PlayStation 5.",
+            "id":"40"
+            
+        },
+        {
+            "image":"https://http2.mlstatic.com/D_NQ_NP_621992-MLA54973288761_042023-O.webp",
+            "name":"Grand Theft Auto v",
+            "price":169.00,
+            "promotion":"169.00",
+            "description":"Carregador básico de carregamento rápido de 2-3 horas: Este carregador de controlador PS5 é projetado para carregar dois controladores PS5 simultaneamente, alimentado por um cabo de carregamento com um plugue da consola PS5.",
+            "id":"41"
+            
+        }
+        ,
+        {
+            "image":"https://http2.mlstatic.com/D_NQ_NP_894007-MLA46557070254_062021-O.webp",
+            "name":"CyberPunk 2077",
+            "price":169.00,
+            "promotion":"169.69",
+            "description":"Carregador básico de carregamento rápido de 2-3 horas: Este carregador de controlador PS5 é projetado para carregar dois controladores PS5 simultaneamente, alimentado por um cabo de carregamento com um plugue da consola PS5.",
+            "id":"42"
+            
+        }
+        ,
+        {
+            "image":"https://http2.mlstatic.com/D_NQ_NP_758967-MLU77742403636_072024-O.webp",
+            "name":"Ghost of Tsushima",
+            "price":169.00,
+            "promotion":"169.69",
+            "description":"Carregador básico de carregamento rápido de 2-3 horas: Este carregador de controlador PS5 é projetado para carregar dois controladores PS5 simultaneamente, alimentado por um cabo de carregamento com um plugue da consola PS5.",
+            "id":"43"
+            
+        }
+        ,
+        {
+            "image":"https://http2.mlstatic.com/D_NQ_NP_878226-MLB77604150564_072024-O.webp",
+            "name":"Assasins Creed Mirage",
+            "price":169.00,
+            "promotion":"169.69",
+            "description":"Assassins Creed Mirage – DELUXE EDITION - PC UBISOFT",
+            "id":"44"
+            
+        },
+        {
+            "image":"https://image.api.playstation.com/vulcan/ap/rnd/202405/2120/bfb142d8522adb99529f7b62a5fa32abd6e739d974ac0f65.png?w=440&thumb=false",
+            "name":"Black Myth Wukong",
+            "price":225.00,
+            "promotion":"25.50",
+            "description":"Black Myth: Wukong é um jogo de RPG de ação desenvolvido pela Game Science, baseado no romance chinês clássico do século 16, Journey to the West.",
+            "id":"101"
+            
+        }
+    ],
+    "pc-perifericos":[
+        {
+            "image":"https://http2.mlstatic.com/D_NQ_NP_871029-MLU70486883335_072023-O.webp",
+            "name":"Mouse RedDragon M908",
+            "price":278.00,
+            "promotion":"278.00",
+            "description":" Com mais de 20 anos de experiência na fabricação de produtos, a Redragon inova todos os dias em design e qualidade. Seu objetivo é produzir equipamentos de última geração para jogadores, com excelente desempenho e a um preço acessível. Os mouses Redragon são adequados para todas as ocasiões, seja para se divertir em casa ou para usá-los no trabalho. Experimente o design confortável e elegante deste dispositivo.",
+            "id":"45"
+            
+        },
+        {
+            "image":"https://http2.mlstatic.com/D_NQ_NP_635688-MLU72612922733_112023-O.webp",
+            "name":"Kit Teclado Gamer",
+            "price":46.00,
+            "promotion":"4.90",
+            "description":"Com este kit de teclado e mouse da Knup você poderá levar seus jogos para outro nível. Destinado a um público gamer, aumente seu desempenho em diferentes jogos. Com este combo, você poderá usar esses dispositivos intensamente e desfrutar de infinitas horas de diversão.",
+            "id":"46"
+            
+        },
+        {
+            "image":"https://www.kabum.com.br/_next/image?url=https%3A%2F%2Fimages.kabum.com.br%2Fprodutos%2Ffotos%2F103431%2Fwebcam-logitech-c920s-pro-full-hd-1080p-30-fps-audio-estereo-com-microfones-960-001257_1613999712_g.jpg&w=1080&q=75",
+            "name":"Webcam Full HD",
+            "price":399.00,
+            "promotion":"399.00",
+            "description":"O C920s oferece vídeo Full HD incrivelmente nítido e detalhado (1080p a 30 qps) com lente de vidro full HD, campo de visão de 78 ° e correção automática de luz HD - além de microfones duplos para som estéreo nítido. Tudo de que você precisa para ter uma ótima aparência em chamadas em conferência e gravar. ",
+            "id":"47"
+            
+        }
+    ],
+    "all-products":[
+        {
+            "image":"https://images.kabum.com.br/produtos/fotos/sync_mirakl/537111/Console-Playstation-5-Sony-Slim-SSD-1TB-Controle-Sem-Fio-Dualsense-Edi-o-Digital-Branco_1717689026_gg.jpg",
+            "name":"Playstation 5",
+            "price":3799.00,
+            "promotion":"379",
+            "description":"PlayStation 5. Jogue Como Nunca Antes. Acesse o Site e Confira As Novidades. Jogos Deslumbrantes e Imersão de Tirar o Fôlego no PlayStation 5. Carregadores. Jogos Exclusivos PS5. Headsets. Fones de Ouvido. Últimos Lançamentos. Câmera HD.",
+            "id":"1"
+            
+        },
+        {
+            "image":"data:image/jpeg;base64,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",
+            "name":"Xbox Series S",
+            "price":3299.00,
+            "promotion":"329",
+            "description":"Xbox Series S. Jogue Como Nunca Antes. Acesse o Site e Confira As Novidades. Jogos Deslumbrantes e Imersão de Tirar o Fôlego no PlayStation 5. Carregadores. Jogos Exclusivos PS5. Headsets. Fones de Ouvido. Últimos Lançamentos. Câmera HD.",
+            "id":"2"
+            
+        },
+        {
+            "image":"https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSbbQqFCzdxpqJ_JJ9f01tzjtLRRE8BnUiwE9VCz4dNYSk3dnOcrF_9ydP6g6tGk8ssOPAhA8V_t4iqIGRDZ5z1l8NBIWolAx83-I1tKHYDyrLmMALU-hgUOEkz2aOJuiOpsnk-Iyw&usqp=CAc",
+            "name":"Hogwarts ...",
+            "price":399.00,
+            "promotion":"39.00",
+            "description":"Hogwarts Legacy é um jogo de ação e RPG em mundo aberto, ambientado no universo de Harry Potter. Lançado em 2023, o jogo se passa no final do século XIX, muito antes dos eventos dos livros e filmes da série. Nele, os jogadores assumem o papel de um estudante recém-chegado a Hogwarts, onde podem explorar o famoso castelo, aprender feitiços, preparar poções, interagir com criaturas mágicas e descobrir segredos do mundo bruxo.",
+            "id":"3"
+            
+        },
+        {
+            "image":"https://www.kabum.com.br/_next/image?url=https%3A%2F%2Fimages.kabum.com.br%2Fprodutos%2Ffotos%2F401375%2Fteclado-gamer-redragon-lakshmi-switch-brown-layout-60-abnt2-verde-k606-og-gy-bk-pt-brown-_1671624936_g.jpg&w=750&q=75",
+            "name":"Teclado",
+            "price":149.00,
+            "promotion":"149",
+            "description":"Para os gamers que procuram deixar o máximo de espaço possível sobre a mesa, o Redragon Lakshmi vem no layout compacto 60% ABNT2.Contando com um cabo removível USB-C, o Lakshmi é um modelo muito portátil para aqueles usuários que buscam praticidade na hora levar seus equipamentos.Sem deixar de lado a qualidade na sua construção, as keycaps do Lakshmi são feitas com o método de double shot injection para a longevidade das marcações.",
+            "id":"4"
+            
+        },
+        {
+            "image":"data:image/jpeg;base64,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",
+            "name":"Xbox Series S",
+            "price":3499.00,
+            "promotion":"349",
+            "description":"Xbox Series S. Jogue Como Nunca Antes. Acesse o Site e Confira As Novidades. Jogos Deslumbrantes e Imersão de Tirar o Fôlego no PlayStation 5. Carregadores. Jogos Exclusivos PS5. Headsets. Fones de Ouvido. Últimos Lançamentos. Câmera HD.",
+            "id":"5"
+            
+        },
+        {
+            "image":"https://http2.mlstatic.com/D_NQ_NP_759399-MLU75123091019_032024-O.webp",
+            "name":"Dual Sense Xbox",
+            "price":399.00,
+            "promotion":"39",
+            "description":"Precise Control Este controle remoto combina funções revolucionárias enquanto mantém a precisão, o conforto e a exatidão em cada movimento. Graças à sua ergonomia especialmente projetada para a posição da sua mão, você pode passar horas jogando com total conforto.",
+            "id":"6"
+            
+        },
+        {
+            "image":"https://http2.mlstatic.com/D_NQ_NP_912249-MLU74135895546_012024-O.webp",
+            "name":"Xbox Diablo Bundle",
+            "price":4121.00,
+            "promotion":"41.21",
+            "description":"Com seu console Xbox Series X você terá entretenimento garantido todos os dias. Sua tecnologia foi criada para colocar novos desafios para jogadores novatos e especialistas.",
+            "id":"7"
+            
+        },
+        {
+            "image":"https://http2.mlstatic.com/D_NQ_NP_850369-MLA74805962673_022024-O.webp",
+            "name":"Xbox Series S 1TB",
+            "price":3079.00,
+            "promotion":"379",
+            "description":"Aviso legal • A duração da bateria dos controles depende de como o produto é usado.",
+            "id":"8"
+            
+        },
+        {
+            "image":"https://http2.mlstatic.com/D_NQ_NP_711941-MLU74446201239_022024-O.webp",
+            "name":"Xbox Series S 512GB",
+            "price":2799.00,
+            "promotion":"279",
+            "description":"Aviso legal • A duração da bateria dos controles depende de como o produto é usado.",
+            "id":"9"
+            
+        },
+        {
+            "image":"https://http2.mlstatic.com/D_NQ_NP_686099-MLA32731207921_112019-O.webp",
+            "name":"Xbox Series S 512GB",
+            "price":1099.00,
+            "promotion":"109",
+            "description":"Aviso legal • A duração da bateria dos controles depende de como o produto é usado.",
+            "id":"10"
+            
+        },
+ {
+            "image":"https://http2.mlstatic.com/D_NQ_NP_996123-MLU72542358794_112023-O.webp",
+            "name":"Battlefield 2042",
+            "price":39.00,
+            "promotion":"3",
+            "description":"Com este jogo Battlefield, você desfrutará de horas de diversão e novos desafios que lhe permitirão melhorar como jogador.",
+            "id":"11"
+            
+        },
+        {
+            "image":"https://http2.mlstatic.com/D_NQ_NP_621428-MLU75915321868_042024-O.webp",
+            "name":"Wild Hearts",
+            "price":139.00,
+            "promotion":"13.90",
+            "description":"Com este jogo Wild Hearts, você desfrutará de horas de diversão e novos desafios que lhe permitirão melhorar como jogador.",
+            "id":"12"
+            
+        },
+        {
+            "image":"https://http2.mlstatic.com/D_NQ_NP_953497-MLB49116994479_022022-O.webp",
+            "name":"Life Is Strange T Colors",
+            "price":139.00,
+            "promotion":"13.90",
+            "description":"Estamos sempre comprometidos a levar o melhor do mundo gamer até você com a experiência de um bom Mercado Líder que somos.",
+            "id":"13"
+            
+        },
+        {
+            "image":"https://http2.mlstatic.com/D_NQ_NP_617294-MLU70500938810_072023-O.webp",
+            "name":"Lego Dc Super Villains",
+            "price":121.00,
+            "promotion":"12.10",
+            "description":"Aviso legal • A duração da bateria dos controles depende de como o produto é usado.",
+            "id":"14"
+            
+        },
+        {
+            "image":"https://http2.mlstatic.com/D_NQ_NP_762328-MLU69921889279_062023-O.webp",
+            "name":" Lego Os Incríveis",
+            "price":121.00,
+            "promotion":"12.90",
+            "description":"Aviso legal • A duração da bateria dos controles depende de como o produto é usado.",
+            "id":"15"
+            
+        },
+        {
+            "image":"https://needgames.com.br/wp-content/uploads/2021/12/red-dead-redemption-xbox-cover.jpg.webp",
+            "name":"Red Dead Redemption 2",
+            "price":109.00,
+            "promotion":"10.90",
+            "description":"Vencedor de mais de 175 prêmios de Jogo do Ano e avaliado com mais de 250 notas máximas, Red Dead Redemption 2 é uma história épica de honra e lealdade no alvorecer dos tempos modernos.",
+            "id":"16"
+            
+        }
+        ,
+        {
+            "image":"https://image.api.playstation.com/vulcan/ap/rnd/202405/2120/bfb142d8522adb99529f7b62a5fa32abd6e739d974ac0f65.png?w=440&thumb=false",
+            "name":"Black Myth Wukong",
+            "price":225.00,
+            "promotion":"25.50",
+            "description":"Black Myth: Wukong é um jogo de RPG de ação desenvolvido pela Game Science, baseado no romance chinês clássico do século 16, Journey to the West.",
+            "id":"101"
+            
+        }
+   ,
+        {
+            "image":"https://http2.mlstatic.com/D_NQ_NP_793033-MLB49434373938_032022-O.webp",
+            "name":"Kit Carregador Duplo",
+            "price":124.00,
+            "promotion":"12.40",
+            "description":"especialmente projetado para xbox series e xbox one e elite controller: esta estação de carregador de controle vem com dois pacotes de baterias recarregáveis 1300mah, suporta controles xbox series x/s e xbox one x/s/xbox one/elite.",
+            "id":"17"
+            
+        },
+        {
+            "image":"https://http2.mlstatic.com/D_NQ_NP_716757-MLB71257039903_082023-O.webp",
+            "name":"Kit Bateria Cabo C",
+            "price":69.00,
+            "promotion":"6.90",
+            "description":"O cliente ideal para este produto é para você que é um entusiasta de jogos que possui um Xbox Series S e valoriza conveniência, compatibilidade e durabilidade em seus acessórios de jogo.",
+            "id":"18"
+            
+        },
+        {
+            "image":"https://http2.mlstatic.com/D_NQ_NP_659458-MLB74438217143_022024-O.webp",
+            "name":"Cooler Dobe Charger",
+            "price":179.00,
+            "promotion":"17.90",
+            "description":"Estamos sempre comprometidos a levar o melhor do mundo gamer até você com a experiência de um bom Mercado Líder que somos.",
+            "id":"19"
+            
+        }
+   ,
+        {
+            "image":"https://images.kabum.com.br/produtos/fotos/sync_mirakl/537111/Console-Playstation-5-Sony-Slim-SSD-1TB-Controle-Sem-Fio-Dualsense-Edi-o-Digital-Branco_1717689026_gg.jpg",
+            "name":"Playstation 5",
+            "price":3799.00,
+            "promotion":"379",
+            "description":"PlayStation 5. Jogue Como Nunca Antes. Acesse o Site e Confira As Novidades. Jogos Deslumbrantes e Imersão de Tirar o Fôlego no PlayStation 5. Carregadores. Jogos Exclusivos PS5. Headsets. Fones de Ouvido. Últimos Lançamentos. Câmera HD.",
+            "id":"20"
+            
+        },
+        {
+            "image":"https://www.kabum.com.br/_next/image?url=https%3A%2F%2Fimages.kabum.com.br%2Fprodutos%2Ffotos%2Fsync_mirakl%2F495577%2FPlaystation-5-Edi-o-Limitada-Spider-Man-2-Controle-E-Jogo-_1695911931_g.jpg&w=1080&q=75",
+            "name":"PS5 Spider-Man 2",
+            "price":6542.00,
+            "promotion":"65.42",
+            "description":"Console playstation 5 marvels spider-man 2 limited edition - cfi-1214az2x",
+            "id":"21"
+            
+        },
+        {
+            "image":"https://www.kabum.com.br/_next/image?url=https%3A%2F%2Fimages.kabum.com.br%2Fprodutos%2Ffotos%2F161471%2Fcontrole-sem-fio-dualsense-midnight-black-ps5-pre-venda_1621439693_g.jpg&w=1080&q=75",
+            "name":"Ps5 DualShock",
+            "price":356.00,
+            "promotion":"35.06",
+            "description":"Sinta o feedback fisicamente responsivo às suas ações no jogo com atuadores duplos que substituem os motores tradicionais. Em suas mãos, essas vibrações dinâmicas podem simular a sensação de tudo, desde ambientes até o recuo de diferentes armas. Experimente vários níveis de força e tensão conforme você interage com o equipamento e os ambientes do jogo. Desde puxar a corda do arco cada vez mais tensa até pisar no freio em um carro em alta velocidade, sinta-se fisicamente conectado às suas ações na tela.",
+            "id":"22"
+            
+        },
+        {
+            "image":"https://www.kabum.com.br/_next/image?url=https%3A%2F%2Fimages.kabum.com.br%2Fprodutos%2Ffotos%2F503383%2Fcontrole-sem-fio-ps5-dualsense-cobalt-blue-cfi-zct1w_1698409848_g.jpg&w=1080&q=75",
+            "name":"Ps5 DualShock Azul",
+            "price":375.00,
+            "promotion":"375",
+            "description":"Aviso legal • A duração da bateria dos controles depende de como o produto é usado.",
+            "id":"23"
+            
+        },
+        {
+            "image":"https://www.kabum.com.br/_next/image?url=https%3A%2F%2Fimages.kabum.com.br%2Fprodutos%2Ffotos%2F115800%2Fheadset-sem-fio-ps5-pulse-3d_1598900334_g.jpg&w=1080&q=75",
+            "name":"Ps5 HeadSet",
+            "price":464.00,
+            "promotion":"46.6",
+            "description":"Aviso legal • A duração da bateria dos controles depende de como o produto é usado.",
+            "id":"24"
+            
+        },
+        {
+            "image":"https://www.kabum.com.br/_next/image?url=https%3A%2F%2Fimages.kabum.com.br%2Fprodutos%2Ffotos%2F548547%2Fplaystation-portal-reprodutor-remoto-para-console-ps5-branco-1000041393_1718044192_g.jpg&w=1080&q=75",
+            "name":"PlayStation Portal",
+            "price":1439.00,
+            "promotion":"143.90",
+            "description":"Aviso legal • A duração da bateria dos controles depende de como o produto é usado.",
+            "id":"25"
+            
+        },
+        {
+            "image":"https://www.kabum.com.br/_next/image?url=https%3A%2F%2Fimages.kabum.com.br%2Fprodutos%2Ffotos%2F396722%2Fjogo-god-of-war-ragnar-k-edicao-standard-ps5-_1666892140_g.jpg&w=1080&q=75",
+            "name":"God of War Ragnarok",
+            "price":3799.00,
+            "promotion":"379",
+            "description":"Do Santa Monica Studio, esta é a sequência da aclamada versão de 2018 de God of War. O Fimbulwinter já começou. Kratos e Atreus devem viajar pelos Nove Reinos em busca de respostas enquanto as forças asgardianas se preparam para uma batalha profetizada que causará o fim do mundo. Nessa jornada, eles explorarão paisagens míticas impressionantes e enfrentarão inimigos aterradores: deuses nórdicos e monstros. A ameaça do Ragnarök se aproxima. Kratos e Atreus terão de escolher entre a segurança deles próprios e a dos reinos.",
+            "id":"26"
+            
+        },
+        {
+            "image":"https://a-static.mlcdn.com.br/800x560/jogo-marvels-spider-man-2-playstation-5/magazineluiza/237987800/4a6e638c6a8837a755f99cf04f227d2b.jpg",
+            "name":"Spider-Man 2",
+            "price":269.00,
+            "promotion":"26.90",
+            "description":"Jogo Marvel's Spider-Man 2 desenvolvido pela Insommiac Games para PS5. Sejam Melhores. Juntos. O próximo jogo da franquia Marvel’s Spider-Man: Peter Parker e Miles Morales enfrentam o maior teste de suas vidas para proteger a cidade contra Venom e a ameaça simbionte. Explore a Nova York da Marvel, balançando, pulando e deslocando-se com as novas Asas de Teia.",
+            "id":"27"
+            
+        },
+        {
+            "image":"https://www.kabum.com.br/_next/image?url=https%3A%2F%2Fimages.kabum.com.br%2Fprodutos%2Ffotos%2F630622%2Fjogo-ea-sports-fc-ps5-ea000007ps5_1724849540_g.jpg&w=1080&q=75",
+            "name":"Ps5 Ea Fc25",
+            "price":356.00,
+            "promotion":"35.06",
+            "description":"O EA SPORTS FC 25 oferece mais maneiras de ganhar pelo clube. Jogue seus modos favoritos com seus amigos no novo Rush 5 contra 5 e gerencie seu clube rumo à vitória com o FC IQ dando mais controle tático do que nunca.",
+            "id":"28"
+            
+        },
+        {
+            "image":"https://www.kabum.com.br/_next/image?url=https%3A%2F%2Fimages.kabum.com.br%2Fprodutos%2Ffotos%2F590473%2Fjogo-elden-ring-shadow-of-the-erdtree-ps5-nb000253ps5_1717678470_g.jpg&w=1080&q=75",
+            "name":"Ps5 Elden Ring",
+            "price":323.00,
+            "promotion":"32.30",
+            "description":"Guiados pelo Empirio Miquella, os jogadores são levados para a Terra das Sombras, um lugar obscurecido pela Térvore, onde a deusa Marika pisou pela primeira vez. Nessas novas terras desconhecidas, jogadores descobrirão segredos obscuros do mundo, conhecendo outros que seguem os passos de Miquella com intenções ocultas.",
+            "id":"29"
+            
+        },
+        {
+            "image":"https://www.kabum.com.br/_next/image?url=https%3A%2F%2Fimages.kabum.com.br%2Fprodutos%2Ffotos%2F511295%2Fjogo-the-last-of-us-part-ii-remastered-ps5-1000030252_1701810116_g.jpg&w=1080&q=75",
+            "name":"The Last Of Us II",
+            "price":224.00,
+            "promotion":"24.0",
+            "description":"Viva a experiência vencedora de mais de 300 prêmios de Jogo do Ano, agora com novos modos e recursos e uma serie de melhorias tecnicas que tornam The Last of Us Part II Remastered a forma definitiva de jogar a história de Ellie e Abby aclamada pela crítica.",
+            "id":"30"
+            
+        },
+        {
+            "image":"https://www.kabum.com.br/_next/image?url=https%3A%2F%2Fimages.kabum.com.br%2Fprodutos%2Ffotos%2F284352%2Fjogo-uncharted-colecao-legado-dos-ladroes-ps5_1639077604_g.jpg&w=1080&q=75",
+            "name":"Uncharted Thief´s Legacy",
+            "price":225.00,
+            "promotion":"25.50",
+            "description":"Busque sua fortuna e deixe sua marca na história em UNCHARTED: Coleção Legado dos Ladrões. Viva a narrativa cinematográfica emocionante e as maiores cenas de ação da franquia UNCHARTED, com todo o bom-humor, a astúcia e momentos incríveis dos ladrões que você mais adora, Nathan Drake e Chloe Frazer.",
+            "id":"31"
+            
+        }
+        ,
+        {
+            "image":"https://cdn.awsli.com.br/2500x2500/2692/2692577/produto/272916215/black-myth-wukong---ps5-5pq4m8qge1.jpg",
+            "name":"Black Myth Wukong",
+            "price":225.00,
+            "promotion":"25.50",
+            "description":"Black Myth: Wukong é um jogo de RPG de ação desenvolvido pela Game Science, baseado no romance chinês clássico do século 16, Journey to the West.",
+            "id":"100"
+            
+        },
+        
+     {
+            "image":"https://http2.mlstatic.com/D_NQ_NP_767644-MLB74421739300_022024-O.webp",
+            "name":"Suporte Refrigeração",
+            "price":224.00,
+            "promotion":"22.40",
+            "description":" suporte ps5 com ventoinhas de refrigeração eficientes e estação de carregamento para controle ps5, suporte 12 jogos ps5, portas de carregamento USB extras. Esta estação de resfriamento ps5 pode carregar rapidamente dois ps5 ao mesmo tempo e dissipar o calor para console ps5, playstation 5.",
+            "id":"32"
+            
+        },
+        {
+            "image":"https://http2.mlstatic.com/D_NQ_NP_681888-MLU73471569078_122023-O.webp",
+            "name":"Base De Carregamento",
+            "price":177.00,
+            "promotion":"17.9",
+            "description":"Encaixe. Carregue. Jogue.Carregue até dois controles sem fio DualSense sem precisar conectá-los ao seu console PlayStation 5.",
+            "id":"33"
+            
+        },
+        {
+            "image":"https://http2.mlstatic.com/D_NQ_NP_624656-MLB75289005414_032024-O.webp",
+            "name":"Base De Controle",
+            "price":137.00,
+            "promotion":"13.70",
+            "description":"Carregador básico de carregamento rápido de 2-3 horas: Este carregador de controlador PS5 é projetado para carregar dois controladores PS5 simultaneamente, alimentado por um cabo de carregamento com um plugue da consola PS5.",
+            "id":"34"
+            
+        },
+     {
+            "image":"https://media.pichau.com.br/media/catalog/product/cache/ef72d3c27864510e5d4c0ce69bade259/c/a/carbon-rgb-amd-gtrx-001_1_6_1.jpg",
+            "name":"Computador Gamer",
+            "price":2629.00,
+            "promotion":"269.40",
+            "description":" 1 x Processador AMD Ryzen 5 4500, 6-Core, 12-Threads, 3.6GHz (4.1GHz Turbo), Cache 11MB, AM4, 100-100000644BOX 1 x Placa Mae Mancer A520M-DX, DDR4,Socket AMD AM4, M-ATX, Chipset AMD A520, MCR-A520M-DX 2 x Memoria Team Group T-Force Vulcan Pichau, 8GB (1x8), DDR4, 3200MHz, C16, Branca RTB, TLPBD48G3200HC16F01 1 x SSD Mancer Reaper RF, 512GB, Sata III 6GB/s, Leitura 500 MB/s, Gravacao 450 MB/s, MCR-RPRF-512 1 x Placa de Video Mancer GeForce GTX 1060, 3GB, GDDR5, 192-bit, MCR-GTX10603GB-V1 Existem mais 4 itens nessa configuração, clique para ver mais",
+            "id":"35"
+            
+        },
+        {
+            "image":"https://media.pichau.com.br/media/catalog/product/cache/ef72d3c27864510e5d4c0ce69bade259/a/g/agabinete-gamer-pouter-4-preto-com-fan-001_4.jpg",
+            "name":"Saiph IV, AMD Ryzen 7",
+            "price":8739.00,
+            "promotion":"873.90",
+            "description":"Encaixe. Carregue. Jogue.Carregue até dois controles sem fio DualSense sem precisar conectá-los ao seu console PlayStation 5.",
+            "id":"36"
+            
+        },
+        {
+            "image":"https://media.pichau.com.br/media/catalog/product/cache/ef72d3c27864510e5d4c0ce69bade259/p/i/pichau-gadit-l-branco-argb-gabinete-001_4.jpg",
+            "name":"Alcmena IV, AMD Ryzen 7",
+            "price":8069.00,
+            "promotion":"806.00",
+            "description":"Carregador básico de carregamento rápido de 2-3 horas: Este carregador de controlador PS5 é projetado para carregar dois controladores PS5 simultaneamente, alimentado por um cabo de carregamento com um plugue da consola PS5.",
+            "id":"37"
+            
+        }
+        ,
+        {
+            "image":"https://media.pichau.com.br/media/catalog/product/cache/ef72d3c27864510e5d4c0ce69bade259/g/a/gabinete-gamer-hx600-black-rgb-001_9_1.jpg",
+            "name":"Poseídon  Ryzen 7",
+            "price":12969.00,
+            "promotion":"1229.69",
+            "description":"Carregador básico de carregamento rápido de 2-3 horas: Este carregador de controlador PS5 é projetado para carregar dois controladores PS5 simultaneamente, alimentado por um cabo de carregamento com um plugue da consola PS5.",
+            "id":"38"
+            
+        },
+      {
+            "image":"https://http2.mlstatic.com/D_NQ_NP_930446-MLU78442500890_082024-O.webp",
+            "name":"RedDead Redemption",
+            "price":229.00,
+            "promotion":"269.40",
+            "description":" 1 x Processador AMD Ryzen 5 4500, 6-Core, 12-Threads, 3.6GHz (4.1GHz Turbo), Cache 11MB, AM4, 100-100000644BOX 1 x Placa Mae Mancer A520M-DX, DDR4,Socket AMD AM4, M-ATX, Chipset AMD A520, MCR-A520M-DX 2 x Memoria Team Group T-Force Vulcan Pichau, 8GB (1x8), DDR4, 3200MHz, C16, Branca RTB, TLPBD48G3200HC16F01 1 x SSD Mancer Reaper RF, 512GB, Sata III 6GB/s, Leitura 500 MB/s, Gravacao 450 MB/s, MCR-RPRF-512 1 x Placa de Video Mancer GeForce GTX 1060, 3GB, GDDR5, 192-bit, MCR-GTX10603GB-V1 Existem mais 4 itens nessa configuração, clique para ver mais",
+            "id":"39"
+            
+        },
+        {
+            "image":"https://assets.nuuvem.com/image/upload/t_boxshot_big/v1/products/557dbc9a69702d0a9c4aff00/boxshots/yla713xc1c3mmvfsugcm.jpg",
+            "name":"Mortal Kombat X",
+            "price":39.00,
+            "promotion":"873.90",
+            "description":"Encaixe. Carregue. Jogue.Carregue até dois controles sem fio DualSense sem precisar conectá-los ao seu console PlayStation 5.",
+            "id":"40"
+            
+        },
+        {
+            "image":"https://http2.mlstatic.com/D_NQ_NP_621992-MLA54973288761_042023-O.webp",
+            "name":"Grand Theft Auto v",
+            "price":169.00,
+            "promotion":"169.00",
+            "description":"Carregador básico de carregamento rápido de 2-3 horas: Este carregador de controlador PS5 é projetado para carregar dois controladores PS5 simultaneamente, alimentado por um cabo de carregamento com um plugue da consola PS5.",
+            "id":"41"
+            
+        }
+        ,
+        {
+            "image":"https://http2.mlstatic.com/D_NQ_NP_894007-MLA46557070254_062021-O.webp",
+            "name":"CyberPunk 2077",
+            "price":169.00,
+            "promotion":"169.69",
+            "description":"Carregador básico de carregamento rápido de 2-3 horas: Este carregador de controlador PS5 é projetado para carregar dois controladores PS5 simultaneamente, alimentado por um cabo de carregamento com um plugue da consola PS5.",
+            "id":"42"
+            
+        }
+        ,
+        {
+            "image":"https://http2.mlstatic.com/D_NQ_NP_758967-MLU77742403636_072024-O.webp",
+            "name":"Ghost of Tsushima",
+            "price":169.00,
+            "promotion":"169.69",
+            "description":"Carregador básico de carregamento rápido de 2-3 horas: Este carregador de controlador PS5 é projetado para carregar dois controladores PS5 simultaneamente, alimentado por um cabo de carregamento com um plugue da consola PS5.",
+            "id":"43"
+            
+        }
+        ,
+        {
+            "image":"https://http2.mlstatic.com/D_NQ_NP_878226-MLB77604150564_072024-O.webp",
+            "name":"Assasins Creed Mirage",
+            "price":169.00,
+            "promotion":"169.69",
+            "description":"Assassins Creed Mirage – DELUXE EDITION - PC UBISOFT",
+            "id":"44"
+            
+        },
+        {
+            "image":"https://image.api.playstation.com/vulcan/ap/rnd/202405/2120/bfb142d8522adb99529f7b62a5fa32abd6e739d974ac0f65.png?w=440&thumb=false",
+            "name":"Black Myth Wukong",
+            "price":225.00,
+            "promotion":"25.50",
+            "description":"Black Myth: Wukong é um jogo de RPG de ação desenvolvido pela Game Science, baseado no romance chinês clássico do século 16, Journey to the West.",
+            "id":"101"
+            
+        }
+    ,
+        {
+            "image":"https://http2.mlstatic.com/D_NQ_NP_871029-MLU70486883335_072023-O.webp",
+            "name":"Mouse RedDragon M908",
+            "price":278.00,
+            "promotion":"278.00",
+            "description":" Com mais de 20 anos de experiência na fabricação de produtos, a Redragon inova todos os dias em design e qualidade. Seu objetivo é produzir equipamentos de última geração para jogadores, com excelente desempenho e a um preço acessível. Os mouses Redragon são adequados para todas as ocasiões, seja para se divertir em casa ou para usá-los no trabalho. Experimente o design confortável e elegante deste dispositivo.",
+            "id":"45"
+            
+        },
+        {
+            "image":"https://http2.mlstatic.com/D_NQ_NP_635688-MLU72612922733_112023-O.webp",
+            "name":"Kit Teclado Gamer",
+            "price":46.00,
+            "promotion":"4.90",
+            "description":"Com este kit de teclado e mouse da Knup você poderá levar seus jogos para outro nível. Destinado a um público gamer, aumente seu desempenho em diferentes jogos. Com este combo, você poderá usar esses dispositivos intensamente e desfrutar de infinitas horas de diversão.",
+            "id":"46"
+            
+        },
+        {
+            "image":"https://www.kabum.com.br/_next/image?url=https%3A%2F%2Fimages.kabum.com.br%2Fprodutos%2Ffotos%2F103431%2Fwebcam-logitech-c920s-pro-full-hd-1080p-30-fps-audio-estereo-com-microfones-960-001257_1613999712_g.jpg&w=1080&q=75",
+            "name":"Webcam Full HD",
+            "price":399.00,
+            "promotion":"399.00",
+            "description":"O C920s oferece vídeo Full HD incrivelmente nítido e detalhado (1080p a 30 qps) com lente de vidro full HD, campo de visão de 78 ° e correção automática de luz HD - além de microfones duplos para som estéreo nítido. Tudo de que você precisa para ter uma ótima aparência em chamadas em conferência e gravar. ",
+            "id":"47"
+            
+        }
+    ]
+}
